@@ -8,7 +8,7 @@ Original file is located at
 """
 
 #creating the list
-l=[x for x in range(0,300,2)] 
+l=[x for x in range(2,300,2)] 
 # print squared items
 for item in l :
   if item==1 :
